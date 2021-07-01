@@ -1,8 +1,11 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is Andrea, currently living in Luxembourg ( born in 🇮🇹 ). Currently I work as Tech Lead and Fullstack Developer for a well known local company.
+This is Andrea, living and working in Luxembourg since 2017 ( born in 🇮🇹 ). Currently I work as Tech Lead and Fullstack Developer for a well known Luxembourgish IT company.
 
-Father of 3, senior PIZZA 🍕 eater and software craftsman since 1997. And, yes, in another life I'm also a dj and electronic music producer.
+Father of 3, senior PIZZA 🍕 eater and software craftsman since 1997.
+
+And... in another life I'm also a dj and electronic music producer.
+
 
 Ask me anything about:
 - Javascript / Typescript
