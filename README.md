@@ -1,24 +1,32 @@
 ### Hello! 👋
 
-This is Andrea, currently living in Luxembourg ( born in 🇮🇹 ). Father of 3, senior PIZZA eater and web craftsman. And, yes, in another life I'm also a dj and electronic music producer.
+This is Andrea, currently living in Luxembourg ( born in 🇮🇹 ). Currently I work as Tech Lead and Fullstack Developer for a well known local company.
 
-How to reach me:
-- [Linkedin](https://www.linkedin.com/in/andreafrittelladotcom/)
-- [Facebook artist page](https://www.facebook.com/andrea.frittella)
-- [Soundcloud main project](https://www.soundcloud.com/irregulardiscoworkers)
+Father of 3, senior PIZZA 🍕 eater and software craftsman since 1997. And, yes, in another life I'm also a dj and electronic music producer.
 
-<!--
-**afrittella/afrittella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ask me anything about:
+- Javascript / Typescript
+- ReactJs
+- Node
+- PHP / Laravel
+- Firebase
+- MySql
+- Ableton Live
+- Traktor
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="andreafrittelladotcom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="a_frittella | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="andreafrittella | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="a_frittella | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="andrea.frittella | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="irregulardiscoworkers | Soundcloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />][soundcloud]
 
+
+[linkedin]: https://www.linkedin.com/in/andreafrittelladotcom
+[twitter]: https://twitter.com/a_frittella
+[facebook]: https://www.facebook.com/andrea.frittella
+[website]: https://www.andreafrittella.com
+[instagram]: https://instagram.com/a_frittella
+[soundcloud]: https://soundcloud.com/irregulardiscoworkers
