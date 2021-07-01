@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+This is Andrea, currently living in Luxembourg ( born in 🇮🇹 ). Father of 3, senior PIZZA eater and web craftsman. And, yes, in another life I'm also a dj and electronic music producer.
+
+How to reach me:
+- [Linkedin](https://www.linkedin.com/in/andreafrittelladotcom/)
+- [Facebook artist page](https://www.facebook.com/andrea.frittella)
+- [Soundcloud main project](https://www.soundcloud.com/irregulardiscoworkers)
 
 <!--
 **afrittella/afrittella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
