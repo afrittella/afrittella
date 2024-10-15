@@ -1,6 +1,6 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is Andrea, living and working in Luxembourg since 2017 ( born in 🇮🇹 ). Currently I work as Lead Developer for a Luxembourgish company called Baliston.
+This is Andrea, living and working in Luxembourg since 2017 ( born in 🇮🇹 ). Currently I work as Developer for a Luxembourgish company called Luxembourg House of Cybersecurity.
 
 Father of 3, senior PIZZA 🍕 eater and software craftsman since 1997.
 
@@ -16,6 +16,8 @@ Ask me anything about:
 - MySql
 - Ableton Live
 - Traktor
+- Docker
+- AWS
 
 
 
